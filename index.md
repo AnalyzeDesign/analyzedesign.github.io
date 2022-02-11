@@ -1,12 +1,8 @@
-## Brian Kay | Analyze Design | Toronto 
+# Brian Kay | Toronto 
 
-You can use the [editor on GitHub](https://github.com/AnalyzeDesign/analyzedesign.github.io/edit/main/index.md) to maintain and preview the 
+## Front-end Developer, Software Engineer, UI/UX
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### briankayone@gmail.com | [LinkedIn](https://www.linkedin.com/in/brian-kay-630022134/)
 
 ```markdown
 Syntax highlighted code block
