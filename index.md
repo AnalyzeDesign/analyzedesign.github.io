@@ -1,4 +1,4 @@
-# Brian Kay | Toronto 
+## Brian Kay | Toronto 
 
 ## Front-end Developer, Software Engineer, UI/UX
 
